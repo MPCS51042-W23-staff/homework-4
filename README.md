@@ -55,7 +55,7 @@ True
 
 For Problem 2, you will gain more practice building classes in Python and also give you the opportunity to build an actual application on your own.
 
-In this application, you will build a simple version of the card game, Blackjack with a tkinter GUI. The classes in the game will include: a `Card`, a `Deck`, a `Hand` and a `Game`. On your own (without my guidance), you will determine how to put these classes together to build the actual game.
+In this application, you will build a simple version of the card game, Blackjack with a tkinter GUI. The classes in the game will include: a `Card`, a `Deck`, and a `Hand`. On your own (without my guidance), you will determine how to put these classes together to build the actual game.
 
 ### Simplified Blackjack Rules
 
